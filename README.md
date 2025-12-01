@@ -282,13 +282,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](./screenshots/homepage.png)
+![Homepage](screenshots/homepage.png)
 
 ### Services Page
-![Services](./screenshots/services.png)
+![Services](screenshots/services.png)
 
 ### About Page
-![About](./screenshots/about.png)
+![About](screenshots/about.png)
+
 
 ---
 
